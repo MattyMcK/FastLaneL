@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='FastLTestTests.xctest' tests='3' failures='0'>
+  <testsuite name='FastLTestUITests.FastLTestUITests' tests='1' failures='0'>
+    <testcase classname='FastLTestUITests.FastLTestUITests' name='testExample' time='5.653'/>
+  </testsuite>
+  <testsuite name='FastLTestTests.FastLTestTests' tests='2' failures='0'>
+    <testcase classname='FastLTestTests.FastLTestTests' name='testExample' time='0.001'/>
+    <testcase classname='FastLTestTests.FastLTestTests' name='testPerformanceExample' time='0.679'/>
+  </testsuite>
+</testsuites>
